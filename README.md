@@ -80,10 +80,22 @@ Whether you're a buyer, seller, investor, or real estate enthusiast, this app pr
 ---
 
 ## 🖼️ Screenshots
+## 🖼️ Screenshots
 
-> _Add screenshots of the app here for a visual preview!_
+### 🏠 Home Page
+![Home Page](demo/home_page.png)
 
----
+### 📊 Insights Page
+![Insights Page](demo/insights.png)
+
+### 🔍 Analysis Page
+![Analysis Page](demo/analysis.png)
+
+### 💸 Price Predictor
+![Price Predictor](demo/Price Predictor.png)
+
+### 🏡 Recommender
+![Recommender](demo/Recommender.png)
 
 ## 🙌 Contributing
 
