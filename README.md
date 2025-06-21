@@ -86,13 +86,13 @@ Whether you're a buyer, seller, investor, or real estate enthusiast, this app pr
 ![Home Page](demo/home_page.png)
 
 ### 📊 Insights Page
-![Insights Page](demo/insights.png)
+![Insights Page](demo/Insights.png)
 
 ### 🔍 Analysis Page
 ![Analysis Page](demo/analysis.png)
 
 ### 💸 Price Predictor
-![Price Predictor](demo/Price Predictor.png)
+![Price Predictor](demo/Price%20Predictor.png)
 
 ### 🏡 Recommender
 ![Recommender](demo/Recommender.png)
