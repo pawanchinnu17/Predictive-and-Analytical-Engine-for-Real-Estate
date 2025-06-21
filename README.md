@@ -97,16 +97,3 @@ Whether you're a buyer, seller, investor, or real estate enthusiast, this app pr
 ### 🏡 Recommender
 ![Recommender](demo/Recommender.png)
 
-## 🙌 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to fork the repo and submit a pull request.
-
----
-
-## 📧 Contact
-
-For questions or feedback, reach out at: [your-email@example.com](mailto:your-email@example.com)
-
----
-
-_Developed with ❤️ using Streamlit and open-source tools._ 
