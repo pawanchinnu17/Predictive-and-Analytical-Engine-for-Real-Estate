@@ -79,7 +79,7 @@ Whether you're a buyer, seller, investor, or real estate enthusiast, this app pr
 
 ---
 
-## 🖼️ Screenshots
+
 ## 🖼️ Screenshots
 
 ### 🏠 Home Page
